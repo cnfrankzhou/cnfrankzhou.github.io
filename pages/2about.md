@@ -7,10 +7,12 @@ icon: glyphicon-heart
 
 ### 关于我
 
-> Microelectronic in SJTU
-> 会点编程
-> 会点电路
-> 会点日语
+> Microelectronic in SJTU\
+  会点编程\
+  会点电路\
+  会点日语
+
+  
 ---
 
 ### 联系我
