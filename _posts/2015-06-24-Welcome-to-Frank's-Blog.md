@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Welcome-to-Frank's-Blog"
-date:   2015-05-20 14:06:05
-categories: Front-end JavaScript
+date:   2015-06-26 21:35:00
+categories: Introduction
 excerpt: Welcome-to-Frank's-Blog。
 ---
 
