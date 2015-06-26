@@ -33,7 +33,7 @@ icon: glyphicon-heart
 
 ---
 
-#### 
+#### Cat
  ![cat]({{"/css/pics/cat.gif"}}) 
 
 
