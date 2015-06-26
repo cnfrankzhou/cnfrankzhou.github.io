@@ -30,6 +30,10 @@ icon: glyphicon-heart
 
 #### 友情链接
 [David Peng](http://blackdavid.com)|[HyG](http://http://gaohaoyang.github.io/)
+
+---
+
+#### 
  ![cat]({{"/css/pics/cat.gif"}}) 
 
 
