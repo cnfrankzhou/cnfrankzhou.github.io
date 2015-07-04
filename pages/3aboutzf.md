@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Aboutzf
-permalink: /aboutzf/
+permalink: /about/
 icon: glyphicon-heart
 ---
 
