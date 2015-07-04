@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aboutzf
+title: About
 permalink: /about/
 icon: glyphicon-heart
 ---
