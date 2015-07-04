@@ -25,10 +25,10 @@ icon: glyphicon-heart
 * QQ：1658907874
 * Weibo：[Eiffel_seer](http://weibo.com/5139429506/profile?topnav=1&wvr=6)
 * 知乎：[周斐](http://www.zhihu.com/people/zhou-fei-86-47)
-
+* 人人：[周斐](http://www.renren.com/466795844)
 ---
 
-### Link exchange
+### Link Exchange
 [David Peng](http://blackdavid.com)|[HyG](http://http://gaohaoyang.github.io/)
 
 ---
