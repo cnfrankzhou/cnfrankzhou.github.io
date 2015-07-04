@@ -33,7 +33,7 @@ icon: glyphicon-heart
 
 ---
 
-### Cat Like Piano
+### Cats Like Piano
  ![cat-cat]({{"/css/pics/cat.gif"}}) 
 
 
