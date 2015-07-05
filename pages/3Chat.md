@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chat Room
+title: Chat
 permalink: /chat/
 icon: glyphicon-heart
 ---
