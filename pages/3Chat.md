@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Chat Room
-permalink: /about/
+title: Chat
+permalink: /Chat/
 icon: glyphicon-heart
 ---
 
