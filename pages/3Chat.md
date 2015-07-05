@@ -2,7 +2,7 @@
 layout: page
 title: Chat
 permalink: /Chat/
-icon:glyphicon-th-large
+icon:glyphicon-heart
 ---
 
 ### Chat Room
