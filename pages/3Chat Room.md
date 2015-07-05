@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About
+title: Chat Room
 permalink: /about/
 icon: glyphicon-heart
 ---
 
 ### About the Network
 
-> 本站的搭建首先感谢[@David Peng](http://blackdavid.com)在搭建过程中的指点与帮助，该网站使用的是[jekyllthemes](http://jekyllthemes.org/)的模板，感谢[HyG](http://github.com/Gaohaoyang/gaohaoyang.github.io)制作的精美模板，不胜感激。该网站只是个人爱好以及写点博客。大学已经读了三年，但是在上学期硬盘竟然忽然坏了，很多资料都没法恢复也是十分心烦，所以想搭建一个网站写一些自己的东西保留一些记忆，当然用github搭建一是免费二是练一些基本的前端操作感觉也不错。网站方面如有侵权以及其他问题请在下方联系方式中联系，我会及时更正。
+> 本站的搭建首先感谢[@David Peng](http://blackdavid.com)在搭建过程中的指点与帮助，该网站使用的是[jekyllthemes](http://jekyllthemes.org/)的模板，感谢[HyG](http://github.com/Gaohaoyang/gaohaoyang.github.io)制作的精美模板，不胜感激。该网站只是个人爱好以及写点博客。大学已经读了三年，但是在上学期硬盘竟然忽然坏了，很多资料都没法恢复也是十分心烦，所以想搭建一个网站写一些自己的东西保留一些记忆，当然用github搭建一是免费二是练一些基本的前端操作感觉也不错。网站方面如有侵权以及其他问题请在下方联系方式中联系，我会及时更正。欢迎大家在文章或者本页面下方留言，我会及时回复。
 
   
 ---
