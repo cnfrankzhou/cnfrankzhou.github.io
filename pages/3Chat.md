@@ -21,7 +21,7 @@ icon: glyphicon-heart
 
 ### Contact Me
 
-* email：[cnfrankzhou@hotmail.com](mailto:{{ site.email }})
+* email：[frankzhou@cnfrankzhou.com](mailto:{{ site.email }})
 * QQ：1658907874
 * Weibo：[Eiffel_seer](http://weibo.com/5139429506/profile?topnav=1&wvr=6)
 * 知乎：[周斐](http://www.zhihu.com/people/zhou-fei-86-47)
