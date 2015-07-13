@@ -49,6 +49,8 @@ excerpt: First Week。
 
 ![Hackthon]({{"/css/Hackathon/net.png" }})
 
+![Hackthon]({{"/css/Hackathon/we.jpg" }})
+
 ![Hackthon]({{"/css/Hackathon/coding.jpg" }})
 
 ![Hackthon]({{"/css/Hackathon/mark.jpg" }})
