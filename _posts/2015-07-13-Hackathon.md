@@ -16,7 +16,7 @@ excerpt: First Week。
 
 <h3><font size="8">1</font><font size="3">st</font> <font size="4">Week————Maxwell Week</font></h3>
 <h3><font size="4">Spirit: Who are crazy enough to think that they can change the world are the ones who do</font></h3>
-<h3><pre><font size="4">                          ——Steven Paul Jobs</font></pre></h3>
+<h3><pre><font size="4">                                                                    ——Steven Paul Jobs</font></pre></h3>
 
 至于为什么第一周给了麦克斯韦这个物理学家，因为我觉得推动这个世界前进的始终是基础性学科。物理学科是我觉得相当能体现人类思维方式的学科，发现现象--假设--实验验证--理论抽象，这个思维是那么自然而又具有美感。我认为推动物理发展最重要的是三个人，牛顿——统一天和地，麦克斯韦——统一电和磁，爱因斯坦——统一宏观和微观。而其中麦克斯韦扮演了一个承上启下的作用，电和磁在现代社会的作用已经不言而喻，因此麦克斯韦成为我第一周的命名，希望能开一个好头。
 
