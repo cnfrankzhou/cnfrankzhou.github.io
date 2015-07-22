@@ -7,7 +7,7 @@ excerpt: Welcome
 ---
 
 * content
-{:toc}
+{:toc}Pl
 
 ## Introduction Of My Blog
 

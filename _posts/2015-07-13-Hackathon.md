@@ -14,10 +14,10 @@ excerpt: First Week。
 
 为了激起自己写博客的兴致，决定为每个星期取个独特的名字，并以一句名言作为这个星期的主题。
 
-<h3><font size="8">1</font><font size="3">st</font> <font size="5">Week————Maxwell Week</font></h3>
+<h3><font size="8">1</font><font size="3">st</font> <font size="5">Week———Maxwell Week</font></h3>
 
-<h3><font size="3">Spirit: Who are crazy enough to think that they can change the world are the ones who do</font></h3>
-<h3><pre><font size="3">                                                     ——Steven Paul Jobs</font></pre></h3>
+> <h3><font size="3">Who are crazy enough to think that they can change the world are the ones who do ——Steven Paul Jobs</font></h3>
+
 
 至于为什么第一周给了麦克斯韦这个物理学家，因为我觉得推动这个世界前进的始终是基础性学科。物理学科是我觉得相当能体现人类思维方式的学科，发现现象--假设--实验验证--理论抽象，这个思维是那么自然而又具有美感。我认为推动物理发展最重要的是三个人，牛顿——统一天和地，麦克斯韦——统一电和磁，爱因斯坦——统一宏观和微观。而其中麦克斯韦扮演了一个承上启下的作用，电和磁在现代社会的作用已经不言而喻，因此麦克斯韦成为我第一周的命名，希望能开一个好头。
 
@@ -44,17 +44,16 @@ excerpt: First Week。
 
 还有推荐算法是实现的难点，当然目前还没有实现，因为在短短一天半时间内实在是有点太困难了。说到这个，这个比赛有点不公平就在于，有些人的作品其实是早已花了大量时间制作的，这本身就违背了Hackathon的主题：短时间内做一些平时不做的作品。当然本来就是抱着玩玩的心态来参加，也没有必要这么严肃对待。其中一个哥们竟然整整三十个小时没有睡觉，并且拿到了最高奖，我对这个人敬由心生，但是我恐怕不会成为这样的人，因为我毕竟被自己的身体吓到过一次了:)。我觉得大家还是要以身体为重。最后还是发一些比赛的图片吧，其中二维码是我们制作的[网站](http://oneleafsjtu.github.io./)，或许几个哥们会有后续的更新，谁知道呢。
 
-![Hackthon]({{"/css/Hackathon/arduino.jpg" }})
 
-![Hackthon]({{"/css/Hackathon/google.jpg" }})
-
-![Hackthon]({{"/css/Hackathon/net.png" }})
-
-![Hackthon]({{"/css/Hackathon/we.jpg" }})
-
-![Hackthon]({{"/css/Hackathon/coding.jpg" }})
-
-![Hackthon]({{"/css/Hackathon/mark.jpg" }})
+<img src="/css/Hackathon/arduino.jpg" width="400" height="400">
+<img src="/css/Hackathon/google.jpg" width="400" height="400">
+<br />
+<img src="/css/Hackathon/net.png" width="400" height="400">
+<img src="/css/Hackathon/we.jpg" width="400" height="400">
+<br />
+<img src="/css/Hackathon/coding.jpg" width="400" height="400">
+<img src="/css/Hackathon/mark.jpg" width="400" height="400">
+<br />
 
 以上です。
 
