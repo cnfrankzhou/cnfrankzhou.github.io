@@ -45,14 +45,14 @@ excerpt: First Week。
 还有推荐算法是实现的难点，当然目前还没有实现，因为在短短一天半时间内实在是有点太困难了。说到这个，这个比赛有点不公平就在于，有些人的作品其实是早已花了大量时间制作的，这本身就违背了Hackathon的主题：短时间内做一些平时不做的作品。当然本来就是抱着玩玩的心态来参加，也没有必要这么严肃对待。其中一个哥们竟然整整三十个小时没有睡觉，并且拿到了最高奖，我对这个人敬由心生，但是我恐怕不会成为这样的人，因为我毕竟被自己的身体吓到过一次了:)。我觉得大家还是要以身体为重。最后还是发一些比赛的图片吧，其中二维码是我们制作的[网站](http://oneleafsjtu.github.io./)，或许几个哥们会有后续的更新，谁知道呢。
 
 
-<img src="/css/Hackathon/arduino.jpg" width="400" height="400">
-<img src="/css/Hackathon/google.jpg" width="400" height="400">
+<img src="/css/Hackathon/arduino.jpg" width="300" height="400">
+<img src="/css/Hackathon/google.jpg" width="300" height="400">
 <br />
-<img src="/css/Hackathon/net.png" width="400" height="400">
-<img src="/css/Hackathon/we.jpg" width="400" height="400">
+<img src="/css/Hackathon/net.png" width="300" height="400">
+<img src="/css/Hackathon/we.jpg" width="300" height="400">
 <br />
-<img src="/css/Hackathon/coding.jpg" width="400" height="400">
-<img src="/css/Hackathon/mark.jpg" width="400" height="400">
+<img src="/css/Hackathon/coding.jpg" width="300" height="400">
+<img src="/css/Hackathon/mark.jpg" width="300" height="400">
 <br />
 
 以上です。
